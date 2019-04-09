@@ -1,4 +1,4 @@
-﻿Species,Year,Julian Day of Year,Plant Identification Number,Number of Buds,Number of Flowers,Number of Flowers that have Reached Maturity,Observer Initials
+﻿species,year,juliandayofyear,plantidentificationnumber,numberofbuds,numberofflowers,numberofflowersthathavereachedmaturity,observerinitials
 Dryas integrifolia,2016,169,1,12,0,0,"AF,IW"
 Dryas integrifolia,2016,172,1,47,0,0,LP
 Dryas integrifolia,2016,175,1,48,0,0,"AF,LP"
